@@ -1,6 +1,6 @@
 # chat
-Small chat in java, which optionally may be secured with PKI
+Small chat in java, which optionally may be secured with RSA keys
 
-Unzip and either import to a Java IDE or build binaries with commandline
+chat .. simple chat without any security which I use for Network Technologies
 
-Folder chat is the Eclipse project for the chat
+securechat ... security enabled chat which introduces encrypted communication
