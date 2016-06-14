@@ -1,6 +1,6 @@
 /**
  * File			: Client.java
- * Package		: asechat.client
+ * Package		: securechat.client
  * Classes		: Client
  * Description	: Client's class with only a socket connection to the server
  * 
@@ -10,7 +10,7 @@
  * 
  * FH JOANNEUM - Kapfenberg - 2009
  */
-package asechat.client;
+package securechat.client;
 
 // Imports
 import java.io.*;
@@ -20,7 +20,7 @@ import java.security.*;
 import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 
-import asechat.tools.CryptoTools;
+import securechat.tools.CryptoTools;
 
 /**
  * Client:

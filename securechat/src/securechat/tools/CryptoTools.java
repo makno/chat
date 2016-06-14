@@ -1,6 +1,6 @@
 /**
  * File			: CryproTools.java
- * Package		: asechat.tools
+ * Package		: securechat.tools
  * Classes		: CryptoTools
  * Description	: Provides cryptographic tools
  * 
@@ -10,7 +10,7 @@
  * 
  * FH JOANNEUM - Kapfenberg - 2009
  */
-package asechat.tools;
+package securechat.tools;
 
 // Imports
 import java.security.MessageDigest;

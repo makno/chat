@@ -1,6 +1,6 @@
 /**
  * File			: ClientThread.java
- * Package		: asechat.server
+ * Package		: securechat.server
  * Classes		: ClientThread
  * Description	: A client's thread which resides in the servers's thread pool
  * 
@@ -10,7 +10,7 @@
  * 
  * FH JOANNEUM - Kapfenberg - 2009
  */
-package asechat.server;
+package securechat.server;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -27,7 +27,7 @@ import java.security.spec.X509EncodedKeySpec;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 
-import asechat.tools.CryptoTools;
+import securechat.tools.CryptoTools;
 
 /**
  * ClientThread:

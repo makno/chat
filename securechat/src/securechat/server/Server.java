@@ -1,6 +1,6 @@
 /**
  * File			: Server.java
- * Package		: asechat.server
+ * Package		: securechat.server
  * Classes		: Server
  * Description	: Run chat server and control client threads
  * 
@@ -10,7 +10,7 @@
  * 
  * FH JOANNEUM - Kapfenberg - 2009
  */
-package asechat.server;
+package securechat.server;
 
 // Imports
 import java.io.*;
